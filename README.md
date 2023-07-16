@@ -24,6 +24,6 @@ This repository is licensed under the MIT License. Feel free to use the code and
 
 ## Contact 📧
 
-For any inquiries or questions related to the projects or the DataScience Internship program, please reach out via email or LinkedIn. Let's connect and discuss exciting opportunities in the world of data science!
+For any inquiries or questions related to the projects or the DataScience Internship program, please reach out via email or LinkedIn (links are in the profile). Let's connect and discuss exciting opportunities in the world of data science!
 
 Happy Data Science Journey! 🚀
