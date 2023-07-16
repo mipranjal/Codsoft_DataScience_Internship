@@ -4,15 +4,31 @@
 
 ## Task 2: Movie Prediction 🎬
 
-In this project, we develop a machine learning model to predict the success of movies based on various features such as genre, budget, cast, and more. By analyzing historical movie data, we can provide insights into which factors contribute to a movie's success and make predictions for future films.
+This project, showcases the power of data analysis and machine learning in predicting movie ratings. By analyzing historical movie data and leveraging various machine learning algorithms, we gain insights into factors influencing movie ratings. The models built enable accurate estimation of ratings, aiding users and critics alike in making informed decisions. Understanding user preferences and the impact of different features on ratings can contribute to improved movie recommendations and better understanding of audience sentiments.
+
+### Code Demo: 
+
+https://github.com/mipranjal/Codsoft_DataScience_Internship/assets/110101325/7c1f6cdd-b8de-44a5-ac7d-cb50bca3f6b3
+
+
 
 ## Task 4: Sales Prediction 📈
 
-The goal of this project is to predict sales for a retail company based on historical sales data, advertising budgets, and other relevant features. By training a machine learning model on the provided dataset, we can forecast future sales and help businesses optimize their marketing strategies.
+This repository contains code for a sales prediction project using simple linear regression. The goal is to analyze the relationship between advertising spending and sales, and build a model to predict sales based on different advertising platforms.
+
+### Code Demo: 
+
+https://github.com/mipranjal/Codsoft_DataScience_Internship/assets/110101325/03cc7e77-f137-4499-9454-bc7d1f1b4ed9
+
 
 ## Task 5: Credit Card Fraud Detection 🔒
 
-In this project, we tackle the critical issue of credit card fraud by developing a machine learning model to detect fraudulent transactions. By analyzing patterns and anomalies in credit card data, we can automatically identify potential fraud and take preventive measures. This project aims to provide a robust solution to protect businesses and individuals from financial losses.
+This project contains a Python script for credit card fraud detection using machine learning algorithms. With the increasing prevalence of fraudulent activities in financial transactions, it is essential to have robust methods in place to identify and prevent such incidents. Machine learning provides a powerful approach to tackle credit card fraud by automatically detecting patterns and anomalies in transaction data.
+
+### Code Demo: 
+
+https://github.com/mipranjal/Codsoft_DataScience_Internship/assets/110101325/8534a37a-c336-4d39-b60e-75bbd734e393
+
 
 ## Contributing 🤝
 
